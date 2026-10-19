@@ -16,7 +16,7 @@ Lista de temas aprendidos:
 - Flujo con Pull Requests en GitHub
 - Markdown y colaboración con InnerSource
 
-Recursos del curso: [Microsoft Learn](https://learn.microsoft.com)
+Recursos del curso: [Microsoft Learn](https://learn.microsoft.com/es-es/training/modules/intro-to-git/)
 
 ### Comandos básicos de Git
 
